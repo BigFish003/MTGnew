@@ -1,0 +1,5843 @@
+[
+  {
+    "name": "Sire of Seven Deaths",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Arahbo, the First Fang",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Armasaur Guide",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Cat Collector",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Celestial Armor",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Claws Out",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Crystal Barricade",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Dauntless Veteran",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Dazzling Angel",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Divine Resilience",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Exemplar of Light",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Felidar Savior",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Fleeting Flight",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Guarded Heir",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Hare Apparent",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Helpful Hunter",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Herald of Eternal Dawn",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Inspiring Paladin",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Joust Through",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Luminous Rebuke",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Prideful Parent",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Raise the Past",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Skyknight Squire",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Squad Rallier",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Sun-Blessed Healer",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Twinblade Blessing",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Valkyrie's Call",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Vanguard Seraph",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Arcane Epiphany",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Archmage of Runes",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Bigfin Bouncer",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Cephalid Inkmage",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Clinquant Skymage",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Curator of Destinies",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Drake Hatcher",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Elementalist Adept",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Erudite Wizard",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Faebloom Trick",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Grappling Kraken",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "High Fae Trickster",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Homunculus Horde",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Icewind Elemental",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Inspiration from Beyond",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Kaito, Cunning Infiltrator",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Kiora, the Rising Tide",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Lunar Insight",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Mischievous Mystic",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Refute",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Rune-Sealed Wall",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Skyship Buccaneer",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Sphinx of Forgotten Lore",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Strix Lookout",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Uncharted Voyage",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Abyssal Harvester",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Arbiter of Woe",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Billowing Shriekmass",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Blasphemous Edict",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Bloodthirsty Conqueror",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Crypt Feaster",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Gutless Plunderer",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "High-Society Hunter",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Hungry Ghoul",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Infernal Vessel",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Infestation Sage",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Midnight Snack",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Nine-Lives Familiar",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Revenge of the Rats",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Sanguine Syphoner",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Seeker's Folly",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Soul-Shackled Zombie",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Stab",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Tinybones, Bauble Burglar",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Tragic Banshee",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Vampire Gourmand",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Vampire Soulcaller",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Vengeful Bloodwitch",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Zul Ashur, Lich Lord",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Battlesong Berserker",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Boltwave",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Bulk Up",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Chandra, Flameshaper",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Courageous Goblin",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Crackling Cyclops",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Dragon Trainer",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Electroduplicate",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Fiery Annihilation",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Goblin Boarders",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Goblin Negotiation",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Gorehorn Raider",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Incinerating Blast",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Kellan, Planar Trailblazer",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Rite of the Dragoncaller",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Searslicer Goblin",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Slumbering Cerberus",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Sower of Chaos",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Strongbox Raider",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Twinflame Tyrant",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Ambush Wolf",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Apothecary Stomper",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Beast-Kin Ranger",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Cackling Prowler",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Eager Trufflesnout",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Elfsworn Giant",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Elvish Regrower",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Felling Blow",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Loot, Exuberant Explorer",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Mossborn Hydra",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Needletooth Pack",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Preposterous Proportions",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Quakestrider Ceratops",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Quilled Greatwurm",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Spinner of Souls",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Sylvan Scavenging",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Treetop Snarespinner",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Alesha, Who Laughs at Fate",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "R"
+    ]
+  },
+  {
+    "name": "Anthem of Champions",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "W"
+    ]
+  },
+  {
+    "name": "Ashroot Animist",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "R"
+    ]
+  },
+  {
+    "name": "Dreadwing Scavenger",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "U"
+    ]
+  },
+  {
+    "name": "Elenda, Saint of Dusk",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "W"
+    ]
+  },
+  {
+    "name": "Fiendish Panda",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "W"
+    ]
+  },
+  {
+    "name": "Koma, World-Eater",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Kykar, Zephyr Awakener",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Niv-Mizzet, Visionary",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "R",
+      "U"
+    ]
+  },
+  {
+    "name": "Perforating Artist",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "R"
+    ]
+  },
+  {
+    "name": "Wardens of the Cycle",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "G"
+    ]
+  },
+  {
+    "name": "Zimone, Paradox Sculptor",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Banner of Kinship",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Fishing Pole",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Leyline Axe",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Quick-Draw Katana",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Ravenous Amulet",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Scrawling Crawler",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Soulstone Sanctuary",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Ajani, Caller of the Pride",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Ajani's Pridemate",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Angel of Finality",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Authority of the Consuls",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Banishing Light",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Cathar Commando",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Day of Judgment",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Giada, Font of Hope",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Healer's Hawk",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Make Your Move",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Mischievous Pup",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Resolute Reinforcements",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Savannah Lions",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Serra Angel",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Stroke of Midnight",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Youthful Valkyrie",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Aegis Turtle",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Aetherize",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Brineborn Cutthroat",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Essence Scatter",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Extravagant Replication",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Fleeting Distraction",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Imprisoned in the Moon",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Lightshell Duo",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Micromancer",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Mocking Sprite",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "An Offer You Can't Refuse",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Omniscience",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Run Away Together",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Self-Reflection",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Spectral Sailor",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Think Twice",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Time Stop",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Tolarian Terror",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Witness Protection",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Bake into a Pie",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Burglar Rat",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Diregraf Ghoul",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Eaten Alive",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Exsanguinate",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Fake Your Own Death",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Hero's Downfall",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Liliana, Dreadhorde General",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Macabre Waltz",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Marauding Blight-Priest",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Painful Quandary",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Phyrexian Arena",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Pilfer",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Reassembling Skeleton",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Rise of the Dark Realms",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Rune-Scarred Demon",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Stromkirk Bloodthief",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Vampire Nighthawk",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Zombify",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Abrade",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Axgard Cavalry",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Brass's Bounty",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Brazen Scourge",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Burst Lightning",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Drakuseth, Maw of Flames",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Etali, Primal Storm",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Fanatical Firebrand",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Firebrand Archer",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Firespitter Whelp",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Flamewake Phoenix",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Frenzied Goblin",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Goblin Surprise",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Heartfire Immolator",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Hidetsugu's Second Rite",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Involuntary Employment",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Krenko, Mob Boss",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Seismic Rupture",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Shivan Dragon",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Slagstorm",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Spitfire Lagac",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Sure Strike",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Thrill of Possibility",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Affectionate Indrik",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Bite Down",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Blanchwood Armor",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Broken Wings",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Bushwhack",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Doubling Season",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Dwynen, Gilt-Leaf Daen",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Dwynen's Elite",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Elvish Archdruid",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Garruk's Uprising",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Genesis Wave",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Ghalta, Primal Hunger",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Giant Growth",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Gnarlid Colony",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Grow from the Ashes",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Inspiring Call",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Llanowar Elves",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Mild-Mannered Librarian",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Nessian Hornbeetle",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Overrun",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Reclamation Sage",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Scavenging Ooze",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Snakeskin Veil",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Vivien Reid",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Wary Thespian",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Wildwood Scourge",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Balmor, Battlemage Captain",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R",
+      "U"
+    ]
+  },
+  {
+    "name": "Consuming Aberration",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "U"
+    ]
+  },
+  {
+    "name": "Empyrean Eagle",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Good-Fortune Unicorn",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "W"
+    ]
+  },
+  {
+    "name": "Heroic Reinforcements",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R",
+      "W"
+    ]
+  },
+  {
+    "name": "Lathril, Blade of the Elves",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "G"
+    ]
+  },
+  {
+    "name": "Muldrotha, the Gravetide",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Progenitus",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Ruby, Daring Tracker",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "R"
+    ]
+  },
+  {
+    "name": "Swiftblade Vindicator",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R",
+      "W"
+    ]
+  },
+  {
+    "name": "Tatyova, Benthic Druid",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Thousand-Year Storm",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R",
+      "U"
+    ]
+  },
+  {
+    "name": "Adventuring Gear",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Burnished Hart",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Campus Guide",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Gleaming Barrier",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Goldvein Pick",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Heraldic Banner",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Juggernaut",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Meteor Golem",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Solemn Simulacrum",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Swiftfoot Boots",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Bloodfell Caves",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "R"
+    ]
+  },
+  {
+    "name": "Blossoming Sands",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "W"
+    ]
+  },
+  {
+    "name": "Dismal Backwater",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "U"
+    ]
+  },
+  {
+    "name": "Evolving Wilds",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Jungle Hollow",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "G"
+    ]
+  },
+  {
+    "name": "Rogue's Passage",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Rugged Highlands",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "R"
+    ]
+  },
+  {
+    "name": "Scoured Barrens",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "W"
+    ]
+  },
+  {
+    "name": "Secluded Courtyard",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Swiftwater Cliffs",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R",
+      "U"
+    ]
+  },
+  {
+    "name": "Thornwood Falls",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Tranquil Cove",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Wind-Scarred Crag",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R",
+      "W"
+    ]
+  },
+  {
+    "name": "Plains",
+    "rarity": "common",
+    "is_basic_land": true,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Plains",
+    "rarity": "common",
+    "is_basic_land": true,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Island",
+    "rarity": "common",
+    "is_basic_land": true,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Island",
+    "rarity": "common",
+    "is_basic_land": true,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Swamp",
+    "rarity": "common",
+    "is_basic_land": true,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Swamp",
+    "rarity": "common",
+    "is_basic_land": true,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Mountain",
+    "rarity": "common",
+    "is_basic_land": true,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Mountain",
+    "rarity": "common",
+    "is_basic_land": true,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Forest",
+    "rarity": "common",
+    "is_basic_land": true,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Forest",
+    "rarity": "common",
+    "is_basic_land": true,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Plains",
+    "rarity": "common",
+    "is_basic_land": true,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Plains",
+    "rarity": "common",
+    "is_basic_land": true,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Island",
+    "rarity": "common",
+    "is_basic_land": true,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Island",
+    "rarity": "common",
+    "is_basic_land": true,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Swamp",
+    "rarity": "common",
+    "is_basic_land": true,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Swamp",
+    "rarity": "common",
+    "is_basic_land": true,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Mountain",
+    "rarity": "common",
+    "is_basic_land": true,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Mountain",
+    "rarity": "common",
+    "is_basic_land": true,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Forest",
+    "rarity": "common",
+    "is_basic_land": true,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Forest",
+    "rarity": "common",
+    "is_basic_land": true,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Sire of Seven Deaths",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Ajani's Pridemate",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Arahbo, the First Fang",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Celestial Armor",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Crystal Barricade",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Exemplar of Light",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Giada, Font of Hope",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Herald of Eternal Dawn",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Raise the Past",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Skyknight Squire",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Valkyrie's Call",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Youthful Valkyrie",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Archmage of Runes",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Curator of Destinies",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Drake Hatcher",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "High Fae Trickster",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Homunculus Horde",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Kiora, the Rising Tide",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Lunar Insight",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "An Offer You Can't Refuse",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Omniscience",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Refute",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Sphinx of Forgotten Lore",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Think Twice",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Abyssal Harvester",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Blasphemous Edict",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Bloodthirsty Conqueror",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Hero's Downfall",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "High-Society Hunter",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Nine-Lives Familiar",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Phyrexian Arena",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Rise of the Dark Realms",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Tinybones, Bauble Burglar",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Vengeful Bloodwitch",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Zul Ashur, Lich Lord",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Abrade",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Electroduplicate",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Etali, Primal Storm",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Kellan, Planar Trailblazer",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Rite of the Dragoncaller",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Searslicer Goblin",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Twinflame Tyrant",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Genesis Wave",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Ghalta, Primal Hunger",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Loot, Exuberant Explorer",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Mossborn Hydra",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Preposterous Proportions",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Quilled Greatwurm",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Reclamation Sage",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Spinner of Souls",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Sylvan Scavenging",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Alesha, Who Laughs at Fate",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "R"
+    ]
+  },
+  {
+    "name": "Anthem of Champions",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "W"
+    ]
+  },
+  {
+    "name": "Ashroot Animist",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "R"
+    ]
+  },
+  {
+    "name": "Elenda, Saint of Dusk",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "W"
+    ]
+  },
+  {
+    "name": "Koma, World-Eater",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Kykar, Zephyr Awakener",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Lathril, Blade of the Elves",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "G"
+    ]
+  },
+  {
+    "name": "Niv-Mizzet, Visionary",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "R",
+      "U"
+    ]
+  },
+  {
+    "name": "Zimone, Paradox Sculptor",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Banner of Kinship",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Leyline Axe",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Scrawling Crawler",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Swiftfoot Boots",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Soulstone Sanctuary",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Ajani, Caller of the Pride",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Kaito, Cunning Infiltrator",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Liliana, Dreadhorde General",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Chandra, Flameshaper",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Vivien Reid",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Sire of Seven Deaths",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Arahbo, the First Fang",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Celestial Armor",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Crystal Barricade",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Exemplar of Light",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Giada, Font of Hope",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Herald of Eternal Dawn",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Raise the Past",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Skyknight Squire",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Valkyrie's Call",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Archmage of Runes",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Curator of Destinies",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Drake Hatcher",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "High Fae Trickster",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Homunculus Horde",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Kiora, the Rising Tide",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Lunar Insight",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Omniscience",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Sphinx of Forgotten Lore",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Abyssal Harvester",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Blasphemous Edict",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Bloodthirsty Conqueror",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "High-Society Hunter",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Nine-Lives Familiar",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Phyrexian Arena",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Rise of the Dark Realms",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Tinybones, Bauble Burglar",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Zul Ashur, Lich Lord",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Electroduplicate",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Etali, Primal Storm",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Kellan, Planar Trailblazer",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Rite of the Dragoncaller",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Searslicer Goblin",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Twinflame Tyrant",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Genesis Wave",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Ghalta, Primal Hunger",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Loot, Exuberant Explorer",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Mossborn Hydra",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Preposterous Proportions",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Quilled Greatwurm",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Spinner of Souls",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Sylvan Scavenging",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Alesha, Who Laughs at Fate",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "R"
+    ]
+  },
+  {
+    "name": "Anthem of Champions",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "W"
+    ]
+  },
+  {
+    "name": "Ashroot Animist",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "R"
+    ]
+  },
+  {
+    "name": "Elenda, Saint of Dusk",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "W"
+    ]
+  },
+  {
+    "name": "Koma, World-Eater",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Kykar, Zephyr Awakener",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Lathril, Blade of the Elves",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "G"
+    ]
+  },
+  {
+    "name": "Niv-Mizzet, Visionary",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "R",
+      "U"
+    ]
+  },
+  {
+    "name": "Zimone, Paradox Sculptor",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Banner of Kinship",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Leyline Axe",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Scrawling Crawler",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Soulstone Sanctuary",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Ajani, Caller of the Pride",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Kaito, Cunning Infiltrator",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Liliana, Dreadhorde General",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Chandra, Flameshaper",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Vivien Reid",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Day of Judgment",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Herald of Eternal Dawn",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Kaito, Cunning Infiltrator",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Think Twice",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Bloodthirsty Conqueror",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Twinflame Tyrant",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Doubling Season",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Llanowar Elves",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Muldrotha, the Gravetide",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Progenitus",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Day of Judgment",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Herald of Eternal Dawn",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Kaito, Cunning Infiltrator",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Think Twice",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Bloodthirsty Conqueror",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Twinflame Tyrant",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Doubling Season",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Llanowar Elves",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Muldrotha, the Gravetide",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Progenitus",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Arahbo, the First Fang",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Celestial Armor",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Crystal Barricade",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Exemplar of Light",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Herald of Eternal Dawn",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Raise the Past",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Skyknight Squire",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Valkyrie's Call",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Archmage of Runes",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Curator of Destinies",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Drake Hatcher",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "High Fae Trickster",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Homunculus Horde",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Kiora, the Rising Tide",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Lunar Insight",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Sphinx of Forgotten Lore",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Abyssal Harvester",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Blasphemous Edict",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Bloodthirsty Conqueror",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "High-Society Hunter",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Nine-Lives Familiar",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Tinybones, Bauble Burglar",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Zul Ashur, Lich Lord",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Electroduplicate",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Kellan, Planar Trailblazer",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Rite of the Dragoncaller",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Searslicer Goblin",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Twinflame Tyrant",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Loot, Exuberant Explorer",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Mossborn Hydra",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Preposterous Proportions",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Quilled Greatwurm",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Spinner of Souls",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Sylvan Scavenging",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Alesha, Who Laughs at Fate",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "R"
+    ]
+  },
+  {
+    "name": "Anthem of Champions",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "W"
+    ]
+  },
+  {
+    "name": "Ashroot Animist",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "R"
+    ]
+  },
+  {
+    "name": "Elenda, Saint of Dusk",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "W"
+    ]
+  },
+  {
+    "name": "Koma, World-Eater",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Kykar, Zephyr Awakener",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Niv-Mizzet, Visionary",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "R",
+      "U"
+    ]
+  },
+  {
+    "name": "Zimone, Paradox Sculptor",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Banner of Kinship",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Leyline Axe",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Scrawling Crawler",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Soulstone Sanctuary",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Adamant Will",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Ancestor Dragon",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Angelic Edict",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Bishop's Soldier",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Deadly Riposte",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Elspeth's Smite",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Herald of Faith",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Ingenious Leonin",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Inspiring Overseer",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Jazal Goldmane",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Leonin Skyhunter",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Leonin Vanguard",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Moment of Triumph",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Pacifism",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Prayer of Binding",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Twinblade Paladin",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Burrog Befuddler",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Cancel",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Corsair Captain",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Eaten by Piranhas",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Exclusion Mage",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Into the Roil",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Kitesail Corsair",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Mystic Archaeologist",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Opt",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Quick Study",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Starlight Snare",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Storm Fleet Spy",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Bloodtithe Collector",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Cemetery Recruitment",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Crossway Troublemakers",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Crow of Dark Tidings",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Deadly Plot",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Death Baron",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Highborn Vampire",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Maalfeld Twins",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Moment of Craving",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Offer Immortality",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Skeleton Archer",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Suspicious Shambler",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Undying Malice",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Untamed Hunger",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Vampire Interloper",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Vampire Neonate",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Vampire Spawn",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Battle-Rattle Shaman",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Carnelian Orb of Dragonkind",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Dragon Fodder",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Dragonlord's Servant",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Dropkick Bomber",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Fire Elemental",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Goblin Oriflamme",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Goblin Smuggler",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Kargan Dragonrider",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Kindled Fury",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Raging Redcap",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Rapacious Dragon",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Scorching Dragonfire",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Seize the Spoils",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Skyraker Giant",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Swab Goblin",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Terror of Mount Velus",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Volley Veteran",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Aggressive Mammoth",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Bear Cub",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Biogenic Upgrade",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Druid of the Cowl",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Joraga Invocation",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Magnigoth Sentry",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "New Horizons",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Tajuru Pathwarden",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Thornweald Archer",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Thrashing Brontodon",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Wildheart Invoker",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Goblin Firebomb",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Pirate's Cutlass",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Uncharted Haven",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Angelic Destiny",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Archway Angel",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Ballyrush Banneret",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Charming Prince",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Crusader of Odric",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Dawnwing Marshal",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Devout Decree",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Disenchant",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Felidar Cub",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Felidar Retreat",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Fumigate",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Knight of Grace",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Linden, the Steadfast Queen",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Mentor of the Meek",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Regal Caracal",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Release the Dogs",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Stasis Snare",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Syr Alin, the Lion's Claw",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Valorous Stance",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Zetalpa, Primal Dawn",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Arcanis the Omnipotent",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Chart a Course",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Dictate of Kruphix",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Dive Down",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Finale of Revelation",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Flashfreeze",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Fog Bank",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Gateway Sneak",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Harbinger of the Tides",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Mystical Teachings",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "U"
+    ]
+  },
+  {
+    "name": "River's Rebuke",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Shipwreck Dowser",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Sphinx of the Final Word",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Tempest Djinn",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Unsummon",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Voracious Greatshark",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Deathmark",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Demonic Pact",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Desecration Demon",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Dread Summons",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Driver of the Dead",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Duress",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Kalastria Highborn",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Knight of Malice",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Midnight Reaper",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Myojin of Night's Reach",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Nullpriest of Oblivion",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Pulse Tracker",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Sanguine Indulgence",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Tribute to Hunger",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Vampiric Rites",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Vile Entomber",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Wishclaw Talisman",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Ball Lightning",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Bolt Bend",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Crash Through",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Dragon Mage",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Dragonmaster Outcast",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Ghitu Lavarunner",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Giant Cindermaw",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Harmless Offering",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Hoarding Dragon",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Lathliss, Dragon Queen",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Mindsparker",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Obliterating Bolt",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Ravenous Giant",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Redcap Gutter-Dweller",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Stromkirk Noble",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Taurean Mauler",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Viashino Pyromancer",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Circuitous Route",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Fierce Empath",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Fynn, the Fangbearer",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Gnarlback Rhino",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Heroes' Bane",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Mold Adder",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Ordeal of Nylea",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Predator Ooze",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Primal Might",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Primeval Bounty",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Rampaging Baloths",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Springbloom Druid",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Surrak, the Hunt Caller",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Venom Connoisseur",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Vizier of the Menagerie",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Wildborn Preserver",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Aurelia, the Warleader",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "R",
+      "W"
+    ]
+  },
+  {
+    "name": "Ayli, Eternal Pilgrim",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "W"
+    ]
+  },
+  {
+    "name": "Cloudblazer",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Deadly Brew",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "G"
+    ]
+  },
+  {
+    "name": "Drogskol Reaver",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Dryad Militant",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "W"
+    ]
+  },
+  {
+    "name": "Enigma Drake",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R",
+      "U"
+    ]
+  },
+  {
+    "name": "Garna, Bloodfist of Keld",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "R"
+    ]
+  },
+  {
+    "name": "Halana and Alena, Partners",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "R"
+    ]
+  },
+  {
+    "name": "Immersturm Predator",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "R"
+    ]
+  },
+  {
+    "name": "Maelstrom Pulse",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "G"
+    ]
+  },
+  {
+    "name": "Mortify",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "W"
+    ]
+  },
+  {
+    "name": "Ovika, Enigma Goliath",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R",
+      "U"
+    ]
+  },
+  {
+    "name": "Prime Speaker Zegana",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Savage Ventmaw",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "R"
+    ]
+  },
+  {
+    "name": "Teach by Example",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R",
+      "U"
+    ]
+  },
+  {
+    "name": "Trygon Predator",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Wilt-Leaf Liege",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "W"
+    ]
+  },
+  {
+    "name": "Basilisk Collar",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Cultivator's Caravan",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Darksteel Colossus",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Diamond Mare",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Feldon's Cane",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Fireshrieker",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Gate Colossus",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Mazemind Tome",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Pyromancer's Goggles",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Ramos, Dragon Engine",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Sorcerous Spyglass",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Soul-Guide Lantern",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Steel Hellkite",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Three Tree Mascot",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Azorius Guildgate",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Boros Guildgate",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R",
+      "W"
+    ]
+  },
+  {
+    "name": "Crawling Barrens",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Cryptic Caves",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Demolition Field",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Dimir Guildgate",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "U"
+    ]
+  },
+  {
+    "name": "Golgari Guildgate",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "G"
+    ]
+  },
+  {
+    "name": "Gruul Guildgate",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "R"
+    ]
+  },
+  {
+    "name": "Izzet Guildgate",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R",
+      "U"
+    ]
+  },
+  {
+    "name": "Orzhov Guildgate",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "W"
+    ]
+  },
+  {
+    "name": "Rakdos Guildgate",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "R"
+    ]
+  },
+  {
+    "name": "Selesnya Guildgate",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "W"
+    ]
+  },
+  {
+    "name": "Simic Guildgate",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Temple of Abandon",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "R"
+    ]
+  },
+  {
+    "name": "Temple of Deceit",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "U"
+    ]
+  },
+  {
+    "name": "Temple of Enlightenment",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U",
+      "W"
+    ]
+  },
+  {
+    "name": "Temple of Epiphany",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R",
+      "U"
+    ]
+  },
+  {
+    "name": "Temple of Malady",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "G"
+    ]
+  },
+  {
+    "name": "Temple of Malice",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "R"
+    ]
+  },
+  {
+    "name": "Temple of Mystery",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "U"
+    ]
+  },
+  {
+    "name": "Temple of Plenty",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "W"
+    ]
+  },
+  {
+    "name": "Temple of Silence",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B",
+      "W"
+    ]
+  },
+  {
+    "name": "Temple of Triumph",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R",
+      "W"
+    ]
+  },
+  {
+    "name": "Angel of Vitality",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Lyra Dawnbringer",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Make a Stand",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  },
+  {
+    "name": "Confiscate",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Negate",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Rite of Replication",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "U"
+    ]
+  },
+  {
+    "name": "Feed the Swarm",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Gatekeeper of Malakir",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Massacre Wurm",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Gratuitous Violence",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Guttersnipe",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Impact Tremors",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "R"
+    ]
+  },
+  {
+    "name": "Gigantosaurus",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Imperious Perfect",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Pelakka Wurm",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G"
+    ]
+  },
+  {
+    "name": "Boros Charm",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "R",
+      "W"
+    ]
+  },
+  {
+    "name": "Unflinching Courage",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": [
+      "G",
+      "W"
+    ]
+  },
+  {
+    "name": "Adaptive Automaton",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Expedition Map",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Gilded Lotus",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Hedron Archive",
+    "rarity": "uncommon",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Maze's End",
+    "rarity": "mythic",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Phyrexian Arena",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": [
+      "B"
+    ]
+  },
+  {
+    "name": "Solemn Simulacrum",
+    "rarity": "rare",
+    "is_basic_land": false,
+    "color_identity": []
+  },
+  {
+    "name": "Hinterland Sanctifier",
+    "rarity": "common",
+    "is_basic_land": false,
+    "color_identity": [
+      "W"
+    ]
+  }
+]

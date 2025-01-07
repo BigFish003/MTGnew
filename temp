@@ -1,0 +1,47 @@
+def test_deck():
+    # 1) Convert the 'd1' list of IDs (or names) into a .dck file
+    d2 = None
+    d1 = "DM_mdr.dck"
+    # 2) If d2 is not given, pick a random deck from a known set of .dck files
+    if d2 is None:
+        decks = ["draft_deck.dck"]
+        d2 = random.choice(decks)
+
+    # 3) Launch the Forge sim using the .dck for d1 and presumably a .dck for d2:
+    command = [
+        "java",
+        "-jar",
+        "forge-gui-desktop-2.0.01-jar-with-dependencies.jar",
+        "sim",
+        "-d",
+        d1,  # Our newly created .dck file
+        d2,  # Another .dck deck
+        "-n",
+        "1"
+    ]
+    working_directory = r"C:\mtgforge"
+    process = subprocess.run(
+        command,
+        cwd=working_directory,
+        check=True,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.PIPE,
+        text=True
+    )
+
+    # 4) Parse output
+    print(process.stdout)
+    x = process.stdout.split("\n")[-3]
+    time = int(
+        re.search(r"(\d+)\s*ms",
+                  "Game Result: Game 1 ended in 2723 ms. Ai(1)-Adventure - Low Black has won!").group(1))
+    print(time)
+
+    # 5) Return the winner ID + time
+    if "ms. Ai(2)" in x:
+        return 2, time
+    if "ms. Ai(1)" in x:
+        return 1, time
+
+
+print(test_deck())
